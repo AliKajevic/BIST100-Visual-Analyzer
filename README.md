@@ -4,6 +4,8 @@ A high-performance Python GUI dashboard for fetching, managing, and visualizing 
 
 A comprehensive, high-performance financial data pipeline and desktop GUI application designed for the Borsa Istanbul (BIST100) market. This system automates the full lifecycle of financial data: from dynamic fetching via Yahoo Finance API to structured storage in MongoDB and interactive visualization.
 
+![App Screenshot](image.png)
+
 ## 🌟 Overview
 This project serves as a robust bridge between real-time financial markets and persistent local analysis. It features a sophisticated GUI that handles complex data operations while providing intuitive charting tools for end-users. It is built to support scalable financial modeling and industrial-grade data reliability.
 
